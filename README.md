@@ -9,7 +9,9 @@ The project demonstrates serial communication between low-level Assembly Languag
  -Detection of correct, incorrect, and incomplete password input
 # 💡 LED Indicators
 🔴 Red LED → Correct Password
+
 🟡 Yellow LED → Incorrect Password
+
 🟢 Green LED → Incomplete/Missing Input
 # 🛠️ Hardware Components
 - Breadboard
